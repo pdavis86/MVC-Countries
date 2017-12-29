@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rows>
+	<row name="United Kingdom" value="United Kingdom" shipping="A" />
+	<row name="Ireland" value="Ireland" shipping="A" />
+	<row name="France" value="France" shipping="B"/>
+	<row name="Germany" value="Germany" shipping="B"/>
+	<row name="Spain" value="Spain" shipping="B"/>   
+	<row name="Portugal" value="Portugal" shipping="B"/>   
+	<row name="Italy" value="Italy" shipping="B"/>
+	<row name="United States" value="United States" shipping="C"/>   
+	<row name="Canada" value="Canada" shipping="C"/> 
+	<row name="Australia" value="Australia" shipping="C"/>
+</rows>
